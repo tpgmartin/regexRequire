@@ -1,0 +1,25 @@
+{
+  "name": "regexRequire",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "eslint . && mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tpgmartin/regexRequire"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpgmartin/regexRequire/issues"
+  },
+  "homepage": "https://github.com/tpgmartin/regexRequire",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
