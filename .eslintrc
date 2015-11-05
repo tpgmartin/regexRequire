@@ -20,5 +20,10 @@
     "env": {
         "node": true
     },
-    "extends": "eslint:recommended"
+    "extends": "eslint:recommended",
+    "globals"   : {
+      /* MOCHA */
+      "describe"   : false,
+      "it"         : false
+    }
 }

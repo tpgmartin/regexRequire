@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/tpgmartin/regexRequire",
   "devDependencies": {
-    "mocha": "^2.3.3"
+    "chai": "^3.4.0"
   }
 }
